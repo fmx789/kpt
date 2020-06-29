@@ -1,0 +1,2 @@
+dsn: root:111111@tcp(localhost:3306)/kpt?parseTime=true
+timeout: "60ms"
